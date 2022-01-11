@@ -1,1 +1,7 @@
-Styles
+/* CSS Documents */
+
+body{
+    background-color: rgb(167, 129, 238);
+    font-weight: bold;
+    color: rgb(235, 222, 48);
+}
